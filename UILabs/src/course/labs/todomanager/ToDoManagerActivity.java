@@ -50,6 +50,7 @@ public class ToDoManagerActivity extends ListActivity {
 		getListView().setFooterDividersEnabled(true);
 
 		//TODO - Inflate footerView for footer_view.xml file
+		// some new text to test git
 
 		TextView footerView = null;
 
